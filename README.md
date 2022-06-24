@@ -20,9 +20,8 @@
   ##
 
 
-- 🔭 Atualmente trabalho com front-end e back-end
-- ☕ Trabalhando com Java mas tocando projeto em flutter. 
-- 👯 Engenheiro de computação em formação
+- 🔭 Atualmente trabalho com front-end e back-end.
+- 👯 Engenheiro de computação.
 - 📫 How to reach me: gustavohj039@gmail.com
 - ⚡ Fun fact: Vencedor da maratona de programação da escola de ciências exatas e da computação na Puc goiás em 2017.
   

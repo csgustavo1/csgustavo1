@@ -21,7 +21,7 @@
 
 
 - 🔭 Full Stack
-- 👯 Computer Engineer.
+-  Computer Engineer.
 - 📫 How to reach me: gustavohj039@gmail.com
 - ⚡ Fun fact: Winner of the programming marathon at the school of exact and computer sciences at Puc goiás in 2017.
   

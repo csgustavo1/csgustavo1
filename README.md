@@ -20,10 +20,10 @@
   ##
 
 
-- 🔭 Atualmente trabalho com front-end e back-end.
-- 👯 Engenheiro de computação.
+- 🔭 Full Stack
+- 👯 Computer Engineer.
 - 📫 How to reach me: gustavohj039@gmail.com
-- ⚡ Fun fact: Vencedor da maratona de programação da escola de ciências exatas e da computação na Puc goiás em 2017.
+- ⚡ Fun fact: Winner of the programming marathon at the school of exact and computer sciences at Puc goiás in 2017.
   
   
  ## 

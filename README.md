@@ -26,12 +26,4 @@
 - ⚡ Fun fact: Vencedor da maratona de programação da escola de ciências exatas e da computação na Puc goiás em 2017.
   
   
- ##
-  
-<div>  
-  <a href = "mailto:gustavohj039@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-da-silva-carvalho-578bb218b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-</div>  
+ ## 
